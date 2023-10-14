@@ -5,7 +5,7 @@ import json
 import random
 import sqlite3
 
-TOKEN = '*******************************'
+TOKEN = '****************************'
 
 client = discord.Client(intents=discord.Intents.all())
 

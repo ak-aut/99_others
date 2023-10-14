@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+//変更テスト2
 
 // 表、裏、上、右、左、下の順
 // 展開図

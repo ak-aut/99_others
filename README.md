@@ -1,5 +1,5 @@
 # 99_others
-　その他いろいろ
+　その他
 # bot_discord.py
   discord上で動作するratingシステム(pythonのスクリプトのみ）
 # Cubesolver.cpp
